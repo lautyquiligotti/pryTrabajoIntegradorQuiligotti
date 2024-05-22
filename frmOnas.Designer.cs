@@ -772,6 +772,7 @@
             this.btnReservar.TabIndex = 82;
             this.btnReservar.Text = "RESERVAR ASIENTOS";
             this.btnReservar.UseVisualStyleBackColor = true;
+            this.btnReservar.Click += new System.EventHandler(this.btnReservar_Click);
             // 
             // dtpFecha
             // 

@@ -352,6 +352,7 @@
             this.btnReservar.TabIndex = 92;
             this.btnReservar.Text = "RESERVAR ASIENTOS";
             this.btnReservar.UseVisualStyleBackColor = true;
+            this.btnReservar.Click += new System.EventHandler(this.btnReservar_Click);
             // 
             // label1
             // 

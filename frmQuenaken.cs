@@ -19,10 +19,12 @@ namespace pryTrabajoIntegradorQuiligotti
 
         private void frmQuenaken_Load(object sender, EventArgs e)
         {
-            Graphics gra = pictureBox1.CreateGraphics();
-            gra.DrawString("Asiento 1", new Font("Arial", 10), Brushes.Green, 10, 15);
-            gra.DrawRectangle(Pens.Black, 10, 10, 58, 25);
             
+        }
+
+        private void btnReservar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

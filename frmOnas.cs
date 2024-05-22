@@ -16,5 +16,10 @@ namespace pryTrabajoIntegradorQuiligotti
         {
             InitializeComponent();
         }
+
+        private void btnReservar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
